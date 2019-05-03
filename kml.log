@@ -1,0 +1,189 @@
+2019-05-02 11:32:35,917 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 11:32:55,396 - unknown_module - INFO - Model found in DB
+2019-05-02 12:42:32,343 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:42:32,441 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:42:38,751 - unknown_module - INFO - Updating model
+2019-05-02 12:42:39,125 - unknown_module - INFO - 0.0
+2019-05-02 12:42:39,125 - unknown_module - INFO - -0.7621189930148826
+2019-05-02 12:43:31,728 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:43:31,810 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:43:37,695 - unknown_module - INFO - Updating model
+2019-05-02 12:43:37,930 - unknown_module - INFO - 0.0
+2019-05-02 12:43:37,930 - unknown_module - INFO - -0.7292769519381284
+2019-05-02 12:45:59,846 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:45:59,923 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:46:05,733 - unknown_module - INFO - Updating model
+2019-05-02 12:46:05,990 - unknown_module - INFO - 0.0
+2019-05-02 12:46:05,990 - unknown_module - INFO - -0.738035485229698
+2019-05-02 12:47:04,346 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:47:04,426 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:47:10,307 - unknown_module - INFO - Updating model
+2019-05-02 12:47:10,553 - unknown_module - INFO - 0.0
+2019-05-02 12:47:10,554 - unknown_module - INFO - -0.7433824525977086
+2019-05-02 12:47:54,719 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:47:54,796 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:48:00,586 - unknown_module - INFO - Updating model
+2019-05-02 12:48:00,835 - unknown_module - INFO - 0.0
+2019-05-02 12:48:00,835 - unknown_module - INFO - -0.7119051531391409
+2019-05-02 12:48:11,900 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:48:12,018 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:48:17,808 - unknown_module - INFO - Updating model
+2019-05-02 12:48:18,053 - unknown_module - INFO - 0.0
+2019-05-02 12:48:18,054 - unknown_module - INFO - -0.744482460358183
+2019-05-02 12:48:34,324 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:48:34,405 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:48:40,255 - unknown_module - INFO - Updating model
+2019-05-02 12:48:40,506 - unknown_module - INFO - 0.0
+2019-05-02 12:48:40,506 - unknown_module - INFO - -0.7369891691866899
+2019-05-02 12:50:14,339 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:50:14,425 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:50:20,225 - unknown_module - INFO - Updating model
+2019-05-02 12:50:20,465 - unknown_module - INFO - 0.0
+2019-05-02 12:50:20,465 - unknown_module - INFO - -0.731459210478248
+2019-05-02 12:50:44,446 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:50:44,529 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:50:50,290 - unknown_module - INFO - Updating model
+2019-05-02 12:50:50,535 - unknown_module - INFO - 0.0
+2019-05-02 12:50:50,535 - unknown_module - INFO - -0.7399824367799415
+2019-05-02 12:51:39,670 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:51:39,751 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:51:45,619 - unknown_module - INFO - Updating model
+2019-05-02 12:51:45,874 - unknown_module - INFO - 0.0
+2019-05-02 12:51:45,874 - unknown_module - INFO - -0.7455163845750363
+2019-05-02 12:52:52,374 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:52:52,478 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:52:58,408 - unknown_module - INFO - Updating model
+2019-05-02 12:52:58,654 - unknown_module - INFO - 0.0
+2019-05-02 12:52:58,654 - unknown_module - INFO - -0.7347263074051911
+2019-05-02 12:53:30,162 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:53:30,258 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:53:36,069 - unknown_module - INFO - Updating model
+2019-05-02 12:53:36,310 - unknown_module - INFO - 0.0
+2019-05-02 12:53:36,310 - unknown_module - INFO - -0.729810112979913
+2019-05-02 12:54:21,099 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:54:21,189 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:54:27,055 - unknown_module - INFO - Updating model
+2019-05-02 12:54:27,298 - unknown_module - INFO - 0.0
+2019-05-02 12:54:27,298 - unknown_module - INFO - -0.7547729629975988
+2019-05-02 12:55:30,629 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:55:30,715 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:55:36,497 - unknown_module - INFO - Updating model
+2019-05-02 12:55:36,746 - unknown_module - INFO - 0.0
+2019-05-02 12:55:36,746 - unknown_module - INFO - -0.7391923405726188
+2019-05-02 12:56:07,273 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:56:07,356 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:56:13,249 - unknown_module - INFO - Updating model
+2019-05-02 12:56:13,496 - unknown_module - INFO - 0.0
+2019-05-02 12:56:13,497 - unknown_module - INFO - -0.7211488799881185
+2019-05-02 12:56:56,304 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:56:56,384 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:57:02,149 - unknown_module - INFO - Updating model
+2019-05-02 12:57:02,395 - unknown_module - INFO - 0.0
+2019-05-02 12:57:02,395 - unknown_module - INFO - -0.7066171810473914
+2019-05-02 12:57:14,184 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:57:14,266 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:57:20,058 - unknown_module - INFO - Updating model
+2019-05-02 12:57:20,305 - unknown_module - INFO - 0.0
+2019-05-02 12:57:20,305 - unknown_module - INFO - -0.7214293588331828
+2019-05-02 12:57:26,472 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:57:26,554 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:57:32,432 - unknown_module - INFO - Updating model
+2019-05-02 12:57:32,679 - unknown_module - INFO - 0.0
+2019-05-02 12:57:32,679 - unknown_module - INFO - -0.7030474264012458
+2019-05-02 12:57:39,494 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:57:39,631 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:57:45,478 - unknown_module - INFO - Updating model
+2019-05-02 12:57:45,724 - unknown_module - INFO - 0.0
+2019-05-02 12:57:45,724 - unknown_module - INFO - -0.7262820695523444
+2019-05-02 12:57:55,230 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:57:55,332 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:58:01,173 - unknown_module - INFO - Updating model
+2019-05-02 12:58:01,422 - unknown_module - INFO - 0.0
+2019-05-02 12:58:01,423 - unknown_module - INFO - -0.7549739057959517
+2019-05-02 12:58:41,962 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:58:42,089 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:58:47,959 - unknown_module - INFO - Updating model
+2019-05-02 12:58:48,199 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 12:58:48,199 - unknown_module - INFO - Train R2: -0.75216
+2019-05-02 12:59:24,352 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 12:59:24,497 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 12:59:30,299 - unknown_module - INFO - Num new samples: 13
+2019-05-02 12:59:30,300 - unknown_module - INFO - Updating model
+2019-05-02 12:59:30,549 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 12:59:30,550 - unknown_module - INFO - Train R2: -0.73711
+2019-05-02 13:00:33,300 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:00:33,382 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:00:39,146 - unknown_module - INFO - Num new samples: 13
+2019-05-02 13:01:01,758 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:01:01,840 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:01:07,632 - unknown_module - INFO - Num new samples: 13
+2019-05-02 13:01:26,108 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:01:26,189 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:01:32,032 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:01:32,032 - unknown_module - INFO - Updating model
+2019-05-02 13:01:32,277 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:01:32,277 - unknown_module - INFO - Train R2: -0.74264
+2019-05-02 13:01:32,277 - unknown_module - INFO - Saving model
+2019-05-02 13:01:44,615 - unknown_module - INFO - Model saved
+2019-05-02 13:02:36,933 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:02:37,010 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:02:42,937 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:02:42,937 - unknown_module - INFO - Updating model
+2019-05-02 13:02:43,182 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:02:43,182 - unknown_module - INFO - Train R2: -0.74595
+2019-05-02 13:04:20,571 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:04:20,774 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:04:27,967 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:04:27,967 - unknown_module - INFO - Updating model
+2019-05-02 13:04:28,255 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:04:28,256 - unknown_module - INFO - Train R2: -0.74416
+2019-05-02 13:06:30,755 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:06:30,837 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:06:37,185 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:06:37,185 - unknown_module - INFO - Updating model
+2019-05-02 13:06:37,440 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:06:37,441 - unknown_module - INFO - Train R2: -0.76491
+2019-05-02 13:16:32,276 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:16:32,368 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:16:38,273 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:16:38,273 - unknown_module - INFO - Updating model
+2019-05-02 13:16:38,516 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:16:38,516 - unknown_module - INFO - Train R2: -0.71758
+2019-05-02 13:17:35,139 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:17:35,214 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:17:41,044 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:17:41,044 - unknown_module - INFO - Updating model
+2019-05-02 13:17:41,287 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:17:41,287 - unknown_module - INFO - Train R2: -0.73360
+2019-05-02 13:42:36,155 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:42:36,242 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 13:42:42,353 - unknown_module - INFO - Num new samples: 299
+2019-05-02 13:42:42,353 - unknown_module - INFO - Updating model
+2019-05-02 13:42:42,601 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 13:42:42,602 - unknown_module - INFO - Train R2: -0.78805
+2019-05-02 13:55:16,295 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:57:21,435 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:57:34,954 - unknown_module - INFO - Model found in DB
+2019-05-02 13:58:17,224 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:58:30,350 - unknown_module - INFO - Model found in DB
+2019-05-02 13:59:11,358 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 13:59:24,883 - unknown_module - INFO - Model found in DB
+2019-05-02 13:59:29,980 - unknown_module - INFO - Num new samples: 0
+2019-05-02 14:00:23,208 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 14:00:52,004 - unknown_module - INFO - Model found in DB
+2019-05-02 14:00:57,088 - unknown_module - INFO - Num new samples: 1
+2019-05-02 14:05:00,200 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 14:05:30,636 - unknown_module - INFO - Model found in DB
+2019-05-02 14:05:36,287 - unknown_module - INFO - Num new samples: 1
+2019-05-02 14:13:10,435 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 14:13:10,514 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 14:13:16,479 - unknown_module - INFO - Num new samples: 300
+2019-05-02 14:13:16,480 - unknown_module - INFO - Updating model
+2019-05-02 14:13:16,728 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 14:13:16,728 - unknown_module - INFO - Train R2: -0.78729
+2019-05-02 14:13:23,855 - unknown_module - INFO - Table prediction_model for storing trained prediction models already exists
+2019-05-02 14:13:23,933 - unknown_module - INFO - No model found in the DB, creating new one from scratch
+2019-05-02 14:13:30,420 - unknown_module - INFO - Num new samples: 300
+2019-05-02 14:13:30,421 - unknown_module - INFO - Updating model
+2019-05-02 14:13:30,759 - unknown_module - INFO - Test R2: 0.00000
+2019-05-02 14:13:30,759 - unknown_module - INFO - Train R2: -0.74963
